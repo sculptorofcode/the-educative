@@ -85,7 +85,7 @@
     "mongodb": "^6.7.0",
     "mongoose": "^8.4.3",
     "multer": "^1.4.5-lts.1",
-    "next": "^14.2.5",
+    "next": "14.2.35",
     "next-auth": "^4.24.7",
     "next-connect": "^1.0.0",
     "next-session": "^4.0.5",
